@@ -1,8 +1,5 @@
 Change Log
 ==========
-0.0.1 (19/07/2021)
+0.0.3 (20/07/2021)
 ------------------
-- Add experimental parameter 'use_buffer' for large files.
-- Generate License mapping compaitble with Scancode.io
-- Update BabelStoneIDS license category
-- Add max_size parameter to stop scan
+- Initial python package
