@@ -12,3 +12,5 @@ env
 *.json
 src/tmp.py
 src/gen.py
+Makefile
+backup.md

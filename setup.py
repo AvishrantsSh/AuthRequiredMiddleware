@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="django_authmiddleware",
-    version="0.0.1",
+    version="0.0.2",
     author="AvishrantSh (Avishrant Sharma)",
     author_email="<avishrants@gmail.com>",
     description="Django middleware to enforce login before accessing certain URL's",
